@@ -1,0 +1,6 @@
+{
+  "name": "Georgia Dental Care",
+  "description": "Modern, premium dental clinic website in Georgia, USA with online booking, interactive before & after sliders, testimonials, insurance checker, and comprehensive dental services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
